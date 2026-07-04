@@ -13,4 +13,4 @@ Note:
 
 ## Demo
 
-![Demo](Template screenshot/image1.png)
+![Template Screenshot](Template%20screenshot/image1.png)

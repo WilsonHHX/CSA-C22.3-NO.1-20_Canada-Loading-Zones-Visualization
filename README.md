@@ -10,3 +10,7 @@ The system includes three main components:
 
 Note:
 * Wind-station locations and provincial boundaries are approximate and intended for reference only, as the CSA standard does not provide precise geospatial boundaries and wind station location.
+
+## Demo
+
+![Demo](Template screenshot/image1.png)
